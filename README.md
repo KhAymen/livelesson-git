@@ -26,5 +26,6 @@
 - `git remote rm <NAME>`: removes the remote called <NAME>
 - `git remote -v`: look at all the remotes you have
 - `git push <WHERE> <WHAT>`: push the <WHAT> branch to <WHERE>
-   - `git push origin main` 
+   - `git push origin main`
+- `git pull <WHERE> <WHAT>`: pulls the <WHAT> branch in <WHERE> to local computer
 
